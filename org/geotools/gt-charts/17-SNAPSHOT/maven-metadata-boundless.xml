@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.geotools</groupId>
+  <artifactId>gt-charts</artifactId>
+  <version>17-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170119.160009</timestamp>
+      <buildNumber>66</buildNumber>
+    </snapshot>
+    <lastUpdated>20170119160054</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>17-20170119.160009-66</value>
+        <updated>20170119160009</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>17-20170119.160009-66</value>
+        <updated>20170119160009</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>17-20170119.160009-66</value>
+        <updated>20170119160009</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

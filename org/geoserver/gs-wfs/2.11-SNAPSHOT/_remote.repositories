@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 30 19:35:16 EST 2017
+gs-wfs-2.11-SNAPSHOT.pom>=
+gs-wfs-2.11-SNAPSHOT-tests.jar>=
+gs-wfs-2.11-SNAPSHOT-test-sources.jar>=
+gs-wfs-2.11-SNAPSHOT-sources.jar>=
+gs-wfs-2.11-SNAPSHOT.jar>=

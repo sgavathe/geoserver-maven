@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 30 19:40:24 EST 2017
+gs-app-schema-test-2.11-SNAPSHOT.jar>=
+gs-app-schema-test-2.11-SNAPSHOT-test-sources.jar>=
+gs-app-schema-test-2.11-SNAPSHOT.pom>=
+gs-app-schema-test-2.11-SNAPSHOT-tests.jar>=

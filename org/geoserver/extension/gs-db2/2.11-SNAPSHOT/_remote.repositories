@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 30 19:40:59 EST 2017
+gs-db2-2.11-SNAPSHOT.pom>=
+gs-db2-2.11-SNAPSHOT-tests.jar>=
+gs-db2-2.11-SNAPSHOT.jar>=

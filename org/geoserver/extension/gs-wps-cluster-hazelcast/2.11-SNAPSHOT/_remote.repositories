@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 30 19:40:40 EST 2017
+gs-wps-cluster-hazelcast-2.11-SNAPSHOT-tests.jar>=
+gs-wps-cluster-hazelcast-2.11-SNAPSHOT.jar>=
+gs-wps-cluster-hazelcast-2.11-SNAPSHOT.pom>=
+gs-wps-cluster-hazelcast-2.11-SNAPSHOT-sources.jar>=
+gs-wps-cluster-hazelcast-2.11-SNAPSHOT-test-sources.jar>=

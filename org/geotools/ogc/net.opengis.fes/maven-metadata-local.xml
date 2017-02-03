@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.geotools.ogc</groupId>
+  <artifactId>net.opengis.fes</artifactId>
+  <versioning>
+    <versions>
+      <version>17-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170126025147</lastUpdated>
+  </versioning>
+</metadata>

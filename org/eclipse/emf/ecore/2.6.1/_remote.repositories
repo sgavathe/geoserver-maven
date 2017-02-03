@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 30 20:14:45 EST 2017
+ecore-2.6.1-sources.jar>osgeo=
+ecore-2.6.1-sources.jar>=
+ecore-2.6.1.pom>osgeo=
+ecore-2.6.1.jar>=
+ecore-2.6.1.jar>osgeo=

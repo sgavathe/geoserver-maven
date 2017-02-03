@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 25 22:11:59 EST 2017
+https\://repo.boundlessgeo.com/main/.error=
+http\://download.oracle.com/maven/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1485400319314
+http\://download.oracle.com/maven/.lastUpdated=1485400319162
+http\://download.osgeo.org/webdav/geotools/.error=
+http\://download.osgeo.org/webdav/geotools/.lastUpdated=1485400317645
+http\://maven.restlet.org/.error=
+http\://maven.restlet.org/.lastUpdated=1485400318001
+https\://repo.boundlessgeo.com/main/.lastUpdated=1485400317413

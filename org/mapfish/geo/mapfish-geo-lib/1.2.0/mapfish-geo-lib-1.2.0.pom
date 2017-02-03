@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.mapfish.geo</groupId>
+  <artifactId>mapfish-geo-lib</artifactId>
+  <version>1.2.0</version>
+  <name>Mapfish Geojson libraru</name>
+  <description>Java library for generating GeoJSON structures</description>
+  <url>http://www.mapfish.org/</url>
+  <organization>
+    <name>Camptocamp SA</name>
+    <url>http://www.camptocamp.com</url>
+  </organization>
+  <licenses>
+    <license>
+      <name>GNU General Public License</name>
+      <url>http://www.gnu.org/licenses/#GPL</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <mailingLists>
+    <mailingList>
+      <name>Users</name>
+      <subscribe>users-subscribe@mapfish.org</subscribe>
+      <unsubscribe>users-subscribe@mapfish.org</unsubscribe>
+      <post>users@mapfish.org</post>
+      <archive>http://www.mapfish.org/pipermail/users/</archive>
+    </mailingList>
+    <mailingList>
+      <name>Dev</name>
+      <subscribe>dev-subscribe@mapfish.org</subscribe>
+      <unsubscribe>dev-subscribe@mapfish.org</unsubscribe>
+      <post>dev@mapfish.org</post>
+      <archive>http://www.mapfish.org/pipermail/dev/</archive>
+    </mailingList>
+  </mailingLists>
+  <developers>
+    <developer>
+      <id>jesseeichar</id>
+      <name>Jesse Eichar</name>
+    </developer>
+    <developer>
+      <id>elemoine</id>
+      <name>Eric Lemoine</name>
+    </developer>
+    <developer>
+      <id>fredj</id>
+      <name>Frederic Junod</name>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:https://github.com/mapfish/java-geojson.git</connection>
+    <developerConnection>scm:git@github.com:mapfish/java-geojson.git</developerConnection>
+    <url>https://github.com/mapfish/java-geojson</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>com.vividsolutions</groupId>
+      <artifactId>jts</artifactId>
+      <version>1.8</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.json</groupId>
+      <artifactId>json</artifactId>
+      <version>20080701</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.7</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+</project>

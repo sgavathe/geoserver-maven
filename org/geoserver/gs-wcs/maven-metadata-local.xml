@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.geoserver</groupId>
+  <artifactId>gs-wcs</artifactId>
+  <versioning>
+    <versions>
+      <version>2.11-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170131003417</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 25 22:09:47 EST 2017
+gwc-diskquota-bdb-1.11-SNAPSHOT.pom>=
+gwc-diskquota-bdb-1.11-SNAPSHOT-tests.jar>=
+gwc-diskquota-bdb-1.11-SNAPSHOT.jar>=
+gwc-diskquota-bdb-1.11-SNAPSHOT-sources.jar>=

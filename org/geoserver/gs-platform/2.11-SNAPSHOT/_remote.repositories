@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 30 19:32:29 EST 2017
+gs-platform-2.11-SNAPSHOT.pom>=
+gs-platform-2.11-SNAPSHOT-tests.jar>=
+gs-platform-2.11-SNAPSHOT-test-sources.jar>=
+gs-platform-2.11-SNAPSHOT.jar>=
+gs-platform-2.11-SNAPSHOT-sources.jar>=

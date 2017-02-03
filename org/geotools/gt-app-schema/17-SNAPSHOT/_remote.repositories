@@ -1,0 +1,18 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 25 21:58:19 EST 2017
+gt-app-schema-17-SNAPSHOT-test-sources.jar>=
+gt-app-schema-17-SNAPSHOT-sources.jar>=
+gt-app-schema-17-20170119.160050-66.pom>boundless=
+gt-app-schema-17-SNAPSHOT.jar>=
+gt-app-schema-17-20170126.001618-74.jar>boundless=
+gt-app-schema-17-SNAPSHOT-tests.jar>=
+gt-app-schema-17-SNAPSHOT.pom>=
+gt-app-schema-17-20170121.013720-72.jar>boundless=
+gt-app-schema-17-20170119.160050-66-tests.jar>boundless=
+gt-app-schema-17-20170126.001618-74.pom>boundless=
+gt-app-schema-17-20170126.001618-74-test-sources.jar>boundless=
+gt-app-schema-17-20170121.013720-72.pom>boundless=
+gt-app-schema-17-20170126.001618-74-sources.jar>boundless=
+gt-app-schema-17-20170119.160050-66.jar>boundless=
+gt-app-schema-17-20170121.013720-72-sources.jar>boundless=
+gt-app-schema-17-20170126.001618-74-tests.jar>boundless=

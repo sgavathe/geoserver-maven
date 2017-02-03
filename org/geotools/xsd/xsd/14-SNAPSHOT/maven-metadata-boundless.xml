@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.geotools.xsd</groupId>
+  <artifactId>xsd</artifactId>
+  <version>14-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20161008.135454</timestamp>
+      <buildNumber>64</buildNumber>
+    </snapshot>
+    <lastUpdated>20161008135530</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>14-20161008.135454-64</value>
+        <updated>20161008135454</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

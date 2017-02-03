@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 25 22:09:40 EST 2017
+gwc-wms-1.11-SNAPSHOT-tests.jar>=
+gwc-wms-1.11-20170126.005622-73-sources.jar>boundless=
+gwc-wms-1.11-20170119.164147-66.jar>boundless=
+gwc-wms-1.11-20170121.014443-71.jar>boundless=
+gwc-wms-1.11-SNAPSHOT.pom>=
+gwc-wms-1.11-20170119.164147-66.pom>boundless=
+gwc-wms-1.11-SNAPSHOT-sources.jar>=
+gwc-wms-1.11-20170121.014443-71.pom>boundless=
+gwc-wms-1.11-20170126.005622-73.jar>boundless=
+gwc-wms-1.11-20170121.014443-71-sources.jar>boundless=
+gwc-wms-1.11-SNAPSHOT.jar>=
+gwc-wms-1.11-20170126.005622-73.pom>boundless=

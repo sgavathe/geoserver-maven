@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.geotools.jdbc</groupId>
+  <artifactId>gt-jdbc-oracle</artifactId>
+  <versioning>
+    <versions>
+      <version>17-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170126025412</lastUpdated>
+  </versioning>
+</metadata>

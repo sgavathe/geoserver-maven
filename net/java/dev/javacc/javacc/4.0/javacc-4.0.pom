@@ -1,0 +1,22 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>net.java.dev.javacc</groupId>
+  <artifactId>javacc</artifactId>
+  <version>4.0</version>
+  <packaging>jar</packaging>
+  <name>JavaCC</name>
+  <url>http://javacc.dev.java.net/</url>
+  <description>Java Compiler Compiler [tm] (JavaCC [tm]) is the most popular parser generator for use with Java [tm] applications.</description>
+  <licenses>
+     <license>
+        <name>The BSD License</name>
+        <url>http://www.opensource.org/licenses/bsd-license.html</url>
+        <distribution>repo</distribution>
+     </license>
+  </licenses>
+  <scm>
+    <connection>scm:cvs:pserver:guest@cvs.dev.java.net:/cvs:javacc</connection>
+    <developerConnection>scm:cvs:pserver:${maven.username}@cvs.dev.java.net:/cvs:javacc</developerConnection>
+    <url>https://javacc.dev.java.net/source/browse/javacc/</url>
+  </scm>
+</project>

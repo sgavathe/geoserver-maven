@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 25 22:09:52 EST 2017
+gwc-diskquota-jdbc-1.11-SNAPSHOT.jar>=
+gwc-diskquota-jdbc-1.11-20170121.014454-71.pom>boundless=
+gwc-diskquota-jdbc-1.11-20170126.005633-73.jar>boundless=
+gwc-diskquota-jdbc-1.11-SNAPSHOT.pom>=
+gwc-diskquota-jdbc-1.11-SNAPSHOT-tests.jar>=
+gwc-diskquota-jdbc-1.11-20170126.005633-73.pom>boundless=
+gwc-diskquota-jdbc-1.11-20170119.164158-66.jar>boundless=
+gwc-diskquota-jdbc-1.11-20170121.014454-71.jar>boundless=
+gwc-diskquota-jdbc-1.11-20170126.005633-73-sources.jar>boundless=
+gwc-diskquota-jdbc-1.11-SNAPSHOT-sources.jar>=
+gwc-diskquota-jdbc-1.11-20170121.014454-71-sources.jar>boundless=
+gwc-diskquota-jdbc-1.11-20170119.164158-66.pom>boundless=

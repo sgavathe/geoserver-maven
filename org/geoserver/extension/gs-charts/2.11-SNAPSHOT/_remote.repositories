@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 30 19:41:45 EST 2017
+gs-charts-2.11-SNAPSHOT.jar>=
+gs-charts-2.11-SNAPSHOT-tests.jar>=
+gs-charts-2.11-SNAPSHOT.pom>=

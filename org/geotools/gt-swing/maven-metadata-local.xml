@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.geotools</groupId>
+  <artifactId>gt-swing</artifactId>
+  <versioning>
+    <versions>
+      <version>17-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170126030009</lastUpdated>
+  </versioning>
+</metadata>

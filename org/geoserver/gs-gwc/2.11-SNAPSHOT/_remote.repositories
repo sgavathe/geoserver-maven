@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 30 19:36:13 EST 2017
+gs-gwc-2.11-SNAPSHOT.pom>=
+gs-gwc-2.11-SNAPSHOT-sources.jar>=
+gs-gwc-2.11-SNAPSHOT-test-sources.jar>=
+gs-gwc-2.11-SNAPSHOT.jar>=
+gs-gwc-2.11-SNAPSHOT-tests.jar>=

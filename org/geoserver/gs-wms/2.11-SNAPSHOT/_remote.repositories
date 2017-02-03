@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 30 19:35:44 EST 2017
+gs-wms-2.11-SNAPSHOT-tests.jar>=
+gs-wms-2.11-SNAPSHOT.jar>=
+gs-wms-2.11-SNAPSHOT-test-sources.jar>=
+gs-wms-2.11-SNAPSHOT.pom>=
+gs-wms-2.11-SNAPSHOT-sources.jar>=

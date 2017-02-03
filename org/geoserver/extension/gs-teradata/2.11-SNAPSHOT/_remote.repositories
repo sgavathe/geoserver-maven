@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 30 19:42:08 EST 2017
+gs-teradata-2.11-SNAPSHOT-sources.jar>=
+gs-teradata-2.11-SNAPSHOT.jar>=
+gs-teradata-2.11-SNAPSHOT-tests.jar>=
+gs-teradata-2.11-SNAPSHOT.pom>=

@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 30 19:34:12 EST 2017
+gs-sec-ldap-2.11-SNAPSHOT-test-sources.jar>=
+gs-sec-ldap-2.11-SNAPSHOT.pom>=
+gs-sec-ldap-2.11-SNAPSHOT-sources.jar>=
+gs-sec-ldap-2.11-SNAPSHOT-tests.jar>=
+gs-sec-ldap-2.11-SNAPSHOT.jar>=

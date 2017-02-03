@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 30 19:45:42 EST 2017
+gs-netcdf-2.11-SNAPSHOT.pom>=
+gs-netcdf-2.11-SNAPSHOT-tests.jar>=
+gs-netcdf-2.11-SNAPSHOT-test-sources.jar>=
+gs-netcdf-2.11-SNAPSHOT.jar>=
+gs-netcdf-2.11-SNAPSHOT-sources.jar>=

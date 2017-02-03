@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.geoserver.csw</groupId>
+  <artifactId>gs-csw-api</artifactId>
+  <versioning>
+    <versions>
+      <version>2.11-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170131004320</lastUpdated>
+  </versioning>
+</metadata>

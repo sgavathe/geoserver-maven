@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 25 22:09:13 EST 2017
+jai_codec-1.1.3.jar>=
+jai_codec-1.1.3.pom>osgeo=
+jai_codec-1.1.3.jar>osgeo=

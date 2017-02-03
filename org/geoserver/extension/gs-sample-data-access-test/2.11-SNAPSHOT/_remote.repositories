@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 30 19:40:31 EST 2017
+gs-sample-data-access-test-2.11-SNAPSHOT.jar>=
+gs-sample-data-access-test-2.11-SNAPSHOT-test-sources.jar>=
+gs-sample-data-access-test-2.11-SNAPSHOT.pom>=
+gs-sample-data-access-test-2.11-SNAPSHOT-tests.jar>=

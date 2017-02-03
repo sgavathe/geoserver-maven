@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 25 21:46:29 EST 2017
+javadoc-17-SNAPSHOT.jar>=
+javadoc-17-SNAPSHOT-sources.jar>=
+javadoc-17-SNAPSHOT.pom>=

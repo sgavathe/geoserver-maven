@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 25 22:09:13 EST 2017
+easymock-2.5.2.jar>=
+easymock-2.5.2.jar>central=
+easymock-2.5.2.pom>central=
+easymock-2.5.2-sources.jar>central=

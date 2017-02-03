@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 25 21:55:56 EST 2017
+gt-jdbc-teradata-17-SNAPSHOT.pom>=
+gt-jdbc-teradata-17-20170119.160032-66.jar>boundless=
+gt-jdbc-teradata-17-SNAPSHOT-sources.jar>=
+gt-jdbc-teradata-17-20170119.160032-66.pom>boundless=
+gt-jdbc-teradata-17-20170119.160032-66-sources.jar>boundless=
+gt-jdbc-teradata-17-SNAPSHOT.jar>=

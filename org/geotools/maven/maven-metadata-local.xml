@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>JAR files collector</name>
+      <prefix>jar-collector</prefix>
+      <artifactId>jar-collector</artifactId>
+    </plugin>
+    <plugin>
+      <name>JJTree and JavaCC compilers plugin</name>
+      <prefix>jjtree-javacc</prefix>
+      <artifactId>jjtree-javacc</artifactId>
+    </plugin>
+    <plugin>
+      <name>XML Code Generation Support</name>
+      <prefix>xmlcodegen</prefix>
+      <artifactId>xmlcodegen</artifactId>
+    </plugin>
+  </plugins>
+</metadata>

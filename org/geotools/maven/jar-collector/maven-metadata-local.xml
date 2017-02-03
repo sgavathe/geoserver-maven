@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.geotools.maven</groupId>
+  <artifactId>jar-collector</artifactId>
+  <versioning>
+    <latest>17-SNAPSHOT</latest>
+    <versions>
+      <version>17-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170126024625</lastUpdated>
+  </versioning>
+</metadata>

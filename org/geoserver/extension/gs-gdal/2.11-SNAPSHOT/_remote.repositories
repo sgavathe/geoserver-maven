@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 30 19:41:13 EST 2017
+gs-gdal-2.11-SNAPSHOT.jar>=
+gs-gdal-2.11-SNAPSHOT-sources.jar>=
+gs-gdal-2.11-SNAPSHOT-test-sources.jar>=
+gs-gdal-2.11-SNAPSHOT-tests.jar>=
+gs-gdal-2.11-SNAPSHOT.pom>=

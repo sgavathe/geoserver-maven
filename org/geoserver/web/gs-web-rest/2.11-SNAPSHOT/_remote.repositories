@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 30 19:38:56 EST 2017
+gs-web-rest-2.11-SNAPSHOT-tests.jar>=
+gs-web-rest-2.11-SNAPSHOT.pom>=
+gs-web-rest-2.11-SNAPSHOT-test-sources.jar>=
+gs-web-rest-2.11-SNAPSHOT-sources.jar>=
+gs-web-rest-2.11-SNAPSHOT.jar>=

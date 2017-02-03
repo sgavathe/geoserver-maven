@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 25 22:12:14 EST 2017
+gwc-aws-s3-1.11-SNAPSHOT.pom>=
+gwc-aws-s3-1.11-SNAPSHOT-sources.jar>=
+gwc-aws-s3-1.11-SNAPSHOT.jar>=
+gwc-aws-s3-1.11-SNAPSHOT-tests.jar>=

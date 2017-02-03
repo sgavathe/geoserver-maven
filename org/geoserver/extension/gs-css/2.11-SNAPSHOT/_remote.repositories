@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 30 19:37:15 EST 2017
+gs-css-2.11-SNAPSHOT-sources.jar>=
+gs-css-2.11-SNAPSHOT-test-sources.jar>=
+gs-css-2.11-20170126.012334-229.jar>boundless=
+gs-css-2.11-20170121.023631-219-sources.jar>boundless=
+gs-css-2.11-20170119.174506-211.jar>boundless=
+gs-css-2.11-20170126.012334-229.pom>boundless=
+gs-css-2.11-20170121.023631-219.jar>boundless=
+gs-css-2.11-SNAPSHOT.jar>=
+gs-css-2.11-SNAPSHOT-tests.jar>=
+gs-css-2.11-20170121.023631-219.pom>boundless=
+gs-css-2.11-20170119.174506-211.pom>boundless=
+gs-css-2.11-SNAPSHOT.pom>=

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Jan 21 17:40:27 EST 2017
+shared-ldap-0.9.15-sources.jar>=
+shared-ldap-0.9.15.jar>central=
+shared-ldap-0.9.15.pom>central=
+shared-ldap-0.9.15-sources.jar>central=

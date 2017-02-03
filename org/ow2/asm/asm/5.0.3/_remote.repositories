@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Jan 21 17:40:42 EST 2017
+asm-5.0.3-sources.jar>=
+asm-5.0.3-sources.jar>central=
+asm-5.0.3.jar>central=
+asm-5.0.3.pom>central=

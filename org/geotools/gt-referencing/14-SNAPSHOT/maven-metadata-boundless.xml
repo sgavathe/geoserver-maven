@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.geotools</groupId>
+  <artifactId>gt-referencing</artifactId>
+  <version>14-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20161008.135432</timestamp>
+      <buildNumber>64</buildNumber>
+    </snapshot>
+    <lastUpdated>20161008135509</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>14-20161008.135432-64</value>
+        <updated>20161008135432</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>14-20161008.135432-64</value>
+        <updated>20161008135432</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>tests</classifier>
+        <extension>jar</extension>
+        <value>14-20161008.135432-64</value>
+        <updated>20161008135432</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>14-20161008.135432-64</value>
+        <updated>20161008135432</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

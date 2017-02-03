@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.geowebcache</groupId>
+  <artifactId>gwc-diskquota-jdbc</artifactId>
+  <version>1.11-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20170126030952</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.11-SNAPSHOT</value>
+        <updated>20170126030952</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>tests</classifier>
+        <extension>jar</extension>
+        <value>1.11-SNAPSHOT</value>
+        <updated>20170126030952</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.11-SNAPSHOT</value>
+        <updated>20170126030952</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.11-SNAPSHOT</value>
+        <updated>20170126030952</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

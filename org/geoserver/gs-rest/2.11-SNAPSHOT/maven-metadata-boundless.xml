@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.geoserver</groupId>
+  <artifactId>gs-rest</artifactId>
+  <version>2.11-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170121.023618</timestamp>
+      <buildNumber>222</buildNumber>
+    </snapshot>
+    <lastUpdated>20170121023705</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>2.11-20170121.023618-222</value>
+        <updated>20170121023618</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2.11-20170121.023618-222</value>
+        <updated>20170121023618</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>tests</classifier>
+        <extension>jar</extension>
+        <value>2.11-20170121.023618-222</value>
+        <updated>20170121023618</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.11-20170121.023618-222</value>
+        <updated>20170121023618</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>test-sources</classifier>
+        <extension>jar</extension>
+        <value>2.11-20170121.023618-222</value>
+        <updated>20170121023618</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

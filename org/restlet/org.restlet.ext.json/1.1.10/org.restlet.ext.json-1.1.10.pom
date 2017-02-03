@@ -1,0 +1,33 @@
+<project>
+   <modelVersion>4.0.0</modelVersion>
+   <groupId>org.restlet</groupId>
+   <artifactId>org.restlet.ext.json</artifactId>
+   <version>1.1.10</version>
+   <dependencies>
+      <dependency>
+         <groupId>org.restlet</groupId>
+         <artifactId>org.restlet</artifactId>
+         <version>1.1.10</version>
+      </dependency>
+      <dependency>
+         <groupId>org.json</groupId>
+         <artifactId>org.json</artifactId>
+         <version>2.0</version>
+      </dependency>
+   </dependencies>
+
+   <name>JSON representation</name>
+   <description>Support for JSON representations.</description>
+   <licenses>
+      <license>
+         <name>CDDL license</name>
+         <url>http://www.opensource.org/licenses/cddl1.php</url>
+      </license>
+      <license>
+         <name>LGPL license</name>
+         <url>
+            http://www.opensource.org/licenses/lgpl-license.php
+         </url>
+      </license>
+   </licenses>
+</project>

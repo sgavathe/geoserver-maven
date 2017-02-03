@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.geotools</groupId>
+  <artifactId>ogc</artifactId>
+  <version>14-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20161008.135526</timestamp>
+      <buildNumber>63</buildNumber>
+    </snapshot>
+    <lastUpdated>20161008135602</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>14-20161008.135526-63</value>
+        <updated>20161008135526</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

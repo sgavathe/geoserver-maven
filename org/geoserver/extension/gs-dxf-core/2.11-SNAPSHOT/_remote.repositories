@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 30 19:43:54 EST 2017
+gs-dxf-core-2.11-SNAPSHOT.pom>=
+gs-dxf-core-2.11-SNAPSHOT-tests.jar>=
+gs-dxf-core-2.11-SNAPSHOT-sources.jar>=
+gs-dxf-core-2.11-SNAPSHOT-test-sources.jar>=
+gs-dxf-core-2.11-SNAPSHOT.jar>=

@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 30 19:42:04 EST 2017
+gs-querylayer-2.11-SNAPSHOT.jar>=
+gs-querylayer-2.11-SNAPSHOT-tests.jar>=
+gs-querylayer-2.11-SNAPSHOT.pom>=
+gs-querylayer-2.11-SNAPSHOT-sources.jar>=
+gs-querylayer-2.11-SNAPSHOT-test-sources.jar>=

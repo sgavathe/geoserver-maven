@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 25 22:12:37 EST 2017
+gwc-sqlite-1.11-SNAPSHOT.jar>=
+gwc-sqlite-1.11-SNAPSHOT-sources.jar>=
+gwc-sqlite-1.11-SNAPSHOT.pom>=
+gwc-sqlite-1.11-SNAPSHOT-tests.jar>=

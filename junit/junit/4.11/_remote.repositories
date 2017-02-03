@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 25 22:09:13 EST 2017
+junit-4.11.jar>central=
+junit-4.11-sources.jar>central=
+junit-4.11.pom>central=
+junit-4.11.jar>=
+junit-4.11-sources.jar>=

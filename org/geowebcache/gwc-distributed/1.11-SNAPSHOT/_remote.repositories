@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 25 22:09:57 EST 2017
+gwc-distributed-1.11-SNAPSHOT.jar>=
+gwc-distributed-1.11-SNAPSHOT-sources.jar>=
+gwc-distributed-1.11-SNAPSHOT-tests.jar>=
+gwc-distributed-1.11-SNAPSHOT.pom>=

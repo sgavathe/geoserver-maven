@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 30 19:44:37 EST 2017
+gs-libjpeg-turbo-2.11-SNAPSHOT-tests.jar>=
+gs-libjpeg-turbo-2.11-SNAPSHOT.jar>=
+gs-libjpeg-turbo-2.11-SNAPSHOT-test-sources.jar>=
+gs-libjpeg-turbo-2.11-SNAPSHOT.pom>=
+gs-libjpeg-turbo-2.11-SNAPSHOT-sources.jar>=

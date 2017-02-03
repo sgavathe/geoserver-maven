@@ -1,0 +1,19 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 30 21:47:16 EST 2017
+net.opengis.fes-17-SNAPSHOT.jar>=
+net.opengis.fes-17-20170121.013617-72-sources.jar>boundless=
+net.opengis.fes-17-20170131.001719-79.pom>boundless=
+net.opengis.fes-17-SNAPSHOT.pom>=
+net.opengis.fes-17-20170127.184415-78.pom>boundless=
+net.opengis.fes-17-20170119.155951-66.pom>boundless=
+net.opengis.fes-17-20170126.001516-74.pom>boundless=
+net.opengis.fes-17-SNAPSHOT-sources.jar>=
+net.opengis.fes-17-20170126.001516-74-sources.jar>boundless=
+net.opengis.fes-17-20170131.001719-79-sources.jar>boundless=
+net.opengis.fes-17-20170127.184415-78-sources.jar>boundless=
+net.opengis.fes-17-20170121.013617-72.jar>boundless=
+net.opengis.fes-17-20170127.184415-78.jar>boundless=
+net.opengis.fes-17-20170119.155951-66.jar>boundless=
+net.opengis.fes-17-20170131.001719-79.jar>boundless=
+net.opengis.fes-17-20170121.013617-72.pom>boundless=
+net.opengis.fes-17-20170126.001516-74.jar>boundless=

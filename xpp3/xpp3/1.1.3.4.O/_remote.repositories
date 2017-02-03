@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 30 20:14:46 EST 2017
+xpp3-1.1.3.4.O.jar>=
+xpp3-1.1.3.4.O-sources.jar>=
+xpp3-1.1.3.4.O.jar>central=
+xpp3-1.1.3.4.O-sources.jar>central=
+xpp3-1.1.3.4.O.pom>central=

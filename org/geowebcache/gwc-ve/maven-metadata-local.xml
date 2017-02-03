@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.geowebcache</groupId>
+  <artifactId>gwc-ve</artifactId>
+  <versioning>
+    <versions>
+      <version>1.11-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170126030936</lastUpdated>
+  </versioning>
+</metadata>

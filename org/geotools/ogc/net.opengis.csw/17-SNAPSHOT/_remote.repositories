@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 25 21:53:12 EST 2017
+net.opengis.csw-17-SNAPSHOT.pom>=
+net.opengis.csw-17-20170119.160003-66.jar>boundless=
+net.opengis.csw-17-20170119.160003-66-sources.jar>boundless=
+net.opengis.csw-17-20170119.160003-66.pom>boundless=
+net.opengis.csw-17-SNAPSHOT-sources.jar>=
+net.opengis.csw-17-SNAPSHOT.jar>=

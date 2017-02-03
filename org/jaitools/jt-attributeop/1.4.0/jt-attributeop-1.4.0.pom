@@ -1,0 +1,17 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+  
+    <parent>
+        <artifactId>operator</artifactId>
+        <groupId>org.jaitools</groupId>
+        <version>1.4.0</version>
+    </parent>
+  
+    <artifactId>jt-attributeop</artifactId>
+    <name>AttributeOpImage</name>
+    <description>An OpImage class that derives one or more attributes from a source image. 
+  Source image pixels are passed through to the destination image unchanged (similar to JAI's 
+  StatisticsOpImage).
+    </description>
+    
+</project>
