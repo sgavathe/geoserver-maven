@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 25 22:10:00 EST 2017
+hazelcast-wm-3.3.1-sources.jar>central=
+hazelcast-wm-3.3.1.jar>central=
+hazelcast-wm-3.3.1.pom>central=
+hazelcast-wm-3.3.1.jar>=

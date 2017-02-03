@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 25 22:10:00 EST 2017
+minimal-json-0.9.1.jar>=
+minimal-json-0.9.1-sources.jar>central=
+minimal-json-0.9.1.jar>central=
+minimal-json-0.9.1.pom>central=

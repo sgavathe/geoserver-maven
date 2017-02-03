@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <project xmlns="http://maven.apache.org/POM/4.0.0"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+                               http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+
+  <parent>
+    <groupId>it.geosolutions.imageio-ext</groupId>
+    <artifactId>imageio-ext</artifactId>
+    <version>1.1M012010</version>
+  </parent>
+
+  <groupId>it.geosolutions.imageio-ext</groupId>
+  <artifactId>imageio-ext-library</artifactId>
+  <version>1.1M012010</version>
+  <packaging>pom</packaging>
+  <name>GeoSolutions Image I/O-Extensions libraries</name>
+
+  <scm>
+    <connection>
+      scm:svn:https://imageio-ext.dev.java.net/svn/imageio-ext/trunk/library
+    </connection>
+    <url>https://imageio-ext.dev.java.net/svn/imageio-ext/trunk/library</url>
+  </scm>
+
+  <description>
+    Image I/O-Extensions core modules.
+  </description>
+
+  <!-- =========================================================== -->
+  <!--     Modules for the build in approximate dependency order   -->
+  <!-- =========================================================== -->
+  <modules>
+    <module>utilities</module>
+    <module>test-data</module>
+    <module>customstreams</module>
+    <module>geocore</module>
+    <module>gdalframework</module>
+    <module>imagereadmt</module>
+    <module>jhdf</module>
+    <module>jmatio</module>
+    <module>netcdf-core</module>
+    <module>jgrib1</module>
+  </modules>
+</project>

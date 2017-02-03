@@ -1,0 +1,33 @@
+<project>
+   <modelVersion>4.0.0</modelVersion>
+   <groupId>com.noelios.restlet</groupId>
+   <artifactId>com.noelios.restlet.ext.servlet</artifactId>
+   <version>1.0.8</version>
+   <dependencies>
+      <dependency>
+         <groupId>com.noelios.restlet</groupId>
+         <artifactId>com.noelios.restlet</artifactId>
+         <version>1.0.8</version>
+      </dependency>
+      <dependency>
+         <groupId>javax.servlet</groupId>
+         <artifactId>servlet-api</artifactId>
+         <version>2.4</version>
+      </dependency>
+   </dependencies>
+
+   <name>HTTP server connector</name>
+   <description>Integration with Servlet API.</description>
+   <licenses>
+      <license>
+         <name>CDDL license</name>
+         <url>http://www.opensource.org/licenses/cddl1.php</url>
+      </license>
+      <license>
+         <name>GPL license</name>
+         <url>
+            http://www.opensource.org/licenses/gpl-license.php
+         </url>
+      </license>
+   </licenses>
+</project>

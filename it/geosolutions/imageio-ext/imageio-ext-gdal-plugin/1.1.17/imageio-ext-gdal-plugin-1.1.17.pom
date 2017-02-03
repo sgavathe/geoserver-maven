@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <project xmlns="http://maven.apache.org/POM/4.0.0"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+                               http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>it.geosolutions.imageio-ext</groupId>
+    <artifactId>imageio-ext-plugin</artifactId>
+    <version>1.1.17</version>
+  </parent>
+  <groupId>it.geosolutions.imageio-ext</groupId>
+  <artifactId>imageio-ext-gdal-plugin</artifactId>
+  <packaging>pom</packaging>
+  <version>1.1.17</version>
+  <name>GeoSolutions Image I/O-Extensions GDAL plugins</name>
+  <description>
+    Image I/O-Extensions GDAL plugin modules.
+  </description>
+  
+  <!-- ===================================================================== -->
+  <!--     Dependencies management.                                          -->
+  <!-- ===================================================================== -->
+  <dependencies>
+    <dependency>
+      <groupId>it.geosolutions.imageio-ext</groupId>
+      <artifactId>imageio-ext-test-data</artifactId>
+      <version>${project.version}</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>it.geosolutions.imageio-ext</groupId>
+      <artifactId>imageio-ext-gdalframework</artifactId>
+      <version>${project.version}</version>
+    </dependency>    
+    <dependency>
+      <groupId>it.geosolutions.imageio-ext</groupId>
+      <artifactId>imageio-ext-gdalframework</artifactId>
+      <version>${project.version}</version>
+      <scope>test</scope>
+      <type>test-jar</type>
+    </dependency>
+  </dependencies>
+  <!-- =========================================================== -->
+  <!--     Modules for the build in approximate dependency order   -->
+  <!-- =========================================================== -->
+  <profiles>
+    <profile>
+        <id>jmagick</id>
+        <modules>
+           <module>jmagickjpeg</module>
+        </modules>
+    </profile>
+    <profile>
+      <id>base</id>
+       <modules>
+        <module>gdalenvisat</module>
+        <module>gdaldoq1</module>
+        <module>gdaldoq2</module>
+        <module>gdalbsb</module>
+        <module>gdalerdasimg</module>
+        <module>gdalidrisi</module>
+        <module>gdalnitf</module>
+        <module>gdalrpftoc</module>
+        <module>gdalehdr</module>
+        <module>gdalenvihdr</module>
+        <module>gdaljpeg</module>
+        <module>gdalarcgrid</module>
+        <module>gdalarcbinarygrid</module>
+        <module>gdaldted</module>
+        <module>gdalgeotiff</module>
+        <module>gdalidrisi</module>
+        <module>gdalvrt</module>
+      </modules>
+    </profile>
+    <profile>
+      <id>full</id>
+      <activation>
+         <property><name>all</name></property>
+      </activation>      
+      <modules>
+        <module>gdaldoq1</module>
+        <module>gdaldoq2</module>
+        <module>gdalhdf4</module>
+        <module>gdalenvisat</module>
+        <module>gdalbsb</module>
+        <module>gdalerdasimg</module>
+        <module>gdalidrisi</module>
+        <module>gdalnitf</module>
+        <module>gdalrpftoc</module>
+        <module>gdalehdr</module>
+        <module>gdalenvihdr</module>
+        <module>gdalmrsid</module>
+        <module>gdalecw</module>
+        <module>gdalecwjp2</module>
+        <module>gdalmrsidjp2</module>
+        <module>gdalkakadujp2</module>
+        <module>gdaljpeg</module>
+        <module>gdalarcgrid</module>
+        <module>gdalarcbinarygrid</module>
+        <module>gdaldted</module>
+        <module>gdalgeotiff</module>
+        <module>gdalwms</module>
+        <module>gdalwcs</module>
+        <module>gdalvrt</module>
+       </modules>
+    </profile> 
+    <profile>
+      <id>releasebuild</id>
+      <modules>
+        <module>gdaldoq1</module>
+        <module>gdaldoq2</module>
+        <module>gdalenvisat</module>
+        <module>gdalbsb</module>
+        <module>gdalerdasimg</module>
+        <module>gdalidrisi</module>
+        <module>gdalnitf</module>
+        <module>gdalrpftoc</module>
+        <module>gdalehdr</module>
+        <module>gdalenvihdr</module>
+        <module>gdalmrsid</module>
+        <module>gdalecw</module>
+        <module>gdalecwjp2</module>
+        <module>gdalmrsidjp2</module>
+        <module>gdalkakadujp2</module>
+        <module>gdaljpeg</module>
+        <module>gdalarcgrid</module>
+        <module>gdalarcbinarygrid</module>
+        <module>gdaldted</module>
+        <module>gdalgeotiff</module>
+        <module>gdalwms</module>
+        <module>gdalwcs</module>
+        <module>gdalvrt</module>
+       </modules>
+    </profile>
+  </profiles>
+</project>

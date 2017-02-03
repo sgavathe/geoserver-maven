@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <project xmlns="http://maven.apache.org/POM/4.0.0"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+                               http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>it.geosolutions.imageio-ext</groupId>
+    <artifactId>imageio-ext</artifactId>
+    <version>1.1M012010</version>
+  </parent>
+  <groupId>it.geosolutions.imageio-ext</groupId>
+  <artifactId>imageio-ext-plugin</artifactId>
+  <packaging>pom</packaging>
+  <version>1.1M012010</version>
+  <name>GeoSolutions Image I/O-Extensions plugins</name>
+  <description>
+    Image I/O-Extensions plugin modules.
+  </description>
+  <scm>
+    <connection>
+      scm:svn:https://imageio-ext.dev.java.net/svn/imageio-ext/trunk/plugin
+    </connection>
+    <url>https://imageio-ext.dev.java.net/svn/imageio-ext/trunk/plugin</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>it.geosolutions.imageio-ext</groupId>
+      <artifactId>imageio-ext-test-data</artifactId>
+      <version>${project.version}</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+  
+  <!-- =========================================================== -->
+  <!--     Modules for the build in approximate dependency order   -->
+  <!-- =========================================================== -->
+  <profiles>
+    <profile>
+        <id>jmagick</id>
+        <modules>
+           <module>jmagickjpeg</module>
+        </modules>
+    </profile>
+    <profile>
+      <id>base</id>
+       <modules>
+	    <module>gdal</module>
+        <module>arcgrid</module>
+        <module>swan</module>
+        <module>tiff</module>
+      </modules>
+    </profile>
+    <profile>
+      <id>full</id>
+      <modules>
+	      <module>gdal</module>
+        <module>kakadujp2</module>
+        <module>arcgrid</module>
+        <module>swan</module>
+        <module>tiff</module>
+        <module>matlab</module>
+	      <module>netcdf-nd</module>
+      </modules>
+    </profile> 
+    <profile>
+      <id>nd</id>
+      <modules>
+	      <module>netcdf-nd</module>
+      </modules>
+    </profile> 
+    <profile>
+      <id>mat</id>
+      <modules>
+	      <module>matlab</module>
+      </modules>
+    </profile> 
+    <profile>
+      <id>releasebuild</id>
+      <modules>
+        <module>gdal</module>
+        <module>kakadujp2</module>
+        <module>arcgrid</module>
+        <module>tiff</module>
+       </modules>
+    </profile>
+  </profiles>
+</project>

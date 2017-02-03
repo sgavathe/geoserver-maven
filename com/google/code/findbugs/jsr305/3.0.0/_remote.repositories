@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 25 22:02:20 EST 2017
+jsr305-3.0.0.pom>central.maven.org=
+jsr305-3.0.0.jar>central.maven.org=
+jsr305-3.0.0-sources.jar>central.maven.org=

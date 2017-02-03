@@ -1,0 +1,8 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.mockrunner</groupId>
+  <artifactId>mockrunner</artifactId>
+  <name>Mock runner</name>
+  <version>0.3.6</version>
+  <url>http://mockrunner.sourceforge.net/</url>
+</project>

@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 25 22:09:13 EST 2017
+guava-17.0.jar>=
+guava-17.0-sources.jar>central=
+guava-17.0.jar>central=
+guava-17.0.pom>central=
+guava-17.0-sources.jar>=

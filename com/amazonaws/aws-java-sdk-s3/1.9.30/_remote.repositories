@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 25 22:12:33 EST 2017
+aws-java-sdk-s3-1.9.30.jar>central=
+aws-java-sdk-s3-1.9.30-sources.jar>central=
+aws-java-sdk-s3-1.9.30.pom>central=
+aws-java-sdk-s3-1.9.30.jar>=
